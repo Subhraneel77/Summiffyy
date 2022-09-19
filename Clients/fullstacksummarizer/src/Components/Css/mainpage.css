@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
+.Main_home{
+    width: 100%;
+}
+.Textsumm_Box{
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Textsum_container{
+    width: 40%;
+    height: 50vh;
+}
+
+.SummiTitle{
+    width: 38%;
+    padding: 15px 10px;
+    margin-top: 30px;
+}
+.textsumbtn{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 12px ;
+    border-radius: 2px;
+}
+.textsumbtn1{
+    padding: 12px 30px;
+    margin-top: 10px;
+}
+
+.mainHometext{
+    width: 40%;
+    background-color: rgb(254, 243, 229);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 20px;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}
+.textoutputhead{
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Teko', sans-serif;
+
+
+}
+.textoutput{
+    width: 80%;
+    margin-bottom: 20px;
+    text-align: justify;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textoutput1{
+    text-align: left;
+    width: 70%;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+}
+.savemessage{
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+}

@@ -1,0 +1,48 @@
+
+.fortext{
+    color: #beb6b6f5;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.1vw;
+    margin-top: 40px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-right: 33%;
+    
+}
+.textinput2{
+    margin-top: -40px;
+}
+.betatxt{
+    color: #beb6b6f5;
+    font-size: 0.95vw;
+    text-align: left;
+    margin-right: 52%;
+    margin-top: 0 ;
+    margin-bottom: 30px;
+}
+.alphatxt{
+    color: #beb6b6f5;
+    width: 90%;
+    font-size: 1vw;
+    text-align: justify;
+    margin-top:200px;
+}
+.resetbtn{
+    width: 100%;
+    padding:5px 3vw;
+}
+@media screen and (max-width:800px){
+    .betatxt{
+        font-size: 1.8vw;
+    }
+    .fortext{
+        font-size: 4vw;
+    }
+    .resetbtn{
+        font-size: 2vw;
+    }
+    .alphatxt{
+        font-size: 2vw;
+        margin-top: 160px;
+    }
+}

@@ -1,0 +1,42 @@
+.signuptext{
+    color: #beb6b6f5;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5vw;
+    margin-top: 40px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-right: 58%;
+}
+.beta1{
+    color: #beb6b6f5;
+    font-size: 0.95vw;
+    text-align: left;
+    margin-right: 45%;
+    margin-top: 0 ;
+    margin-bottom: 30px;
+}
+.signbtn{
+    margin-top: 18px;
+    background-color:#f10000f1;
+    color: #fff;
+    border-style:none;
+    font-size: 1.5vw;
+    width: 30%;
+    padding: 6px 0; 
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 80px;
+}
+@media screen and (max-width:800px) {
+    .beta1{
+        font-size: 1.6vw;
+        margin-right: 55%;
+    }
+    .signuptext{
+        font-size: 4vw;
+        margin-right: 62%;
+    }
+    .signbtn{
+        margin-bottom: 40px;
+    }
+}
